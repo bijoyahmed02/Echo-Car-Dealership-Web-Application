@@ -41,5 +41,3 @@ A web-based car dealership management system developed using **C#** with **SQL S
 ## Project Report
 
 For detailed documentation, ER diagram, and SQL queries, refer to the [project report](./OOP2_Project_Report.pdf).
-
-⭐ Don't forget to star this repository!
